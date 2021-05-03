@@ -1,6 +1,13 @@
-# sregister_vue
 
-> My stellar Nuxt.js project
+#Project 'e-log-book' is an electronic logbook for primary schools. 
+After installation you will nedd to log in using one of the followin logins:
+  uczen,
+  rodzic,
+  nauczyciel.
+The password is: 123.
+
+
+Nuxt.js project
 
 ## Build Setup
 
