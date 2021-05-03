@@ -1,5 +1,5 @@
 
-#Project 'e-log-book' is an electronic logbook for primary schools. 
+Project 'e-log-book' is an electronic logbook for primary schools. 
 After installation you will nedd to log in using one of the followin logins:
   uczen,
   rodzic,
